@@ -1,0 +1,2 @@
+将project.config.json中的appid修改成你的appid
+
